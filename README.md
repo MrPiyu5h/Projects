@@ -1,1 +1,1 @@
-Simple projects using html,css,and java Script.
+Simple and small projects using html,css,and java Script.
